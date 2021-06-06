@@ -1,4 +1,9 @@
-# CoordBioClimR
+# CoordBioC
+
+![IUP](https://i.imgur.com/1ZrTdQ3.png)
+
+> Desarrollado por Carlos Alberto L. Figueroa
+> Universidad Panamericana CDMX
 
 Relaciona 1 dataset de latitudes y longitudes  con sus respectivos valores dentro del WorldClim BioClim v.2.1
 
@@ -7,7 +12,7 @@ Como resultados, entrega 2 archivos ```dataframe.xslx``` y ```dataframe.csv``` e
 
 Los datos de Bioclim son en intervalo 10m y obtiene las 19 variables. Esta DB será descargada al momento de correr el script en un directorio que se creará llamado wc10.
 
-## Referencias 
+## Referencias
 
 Fick, S.E. and R.J. Hijmans, (2017). WorldClim 2: new 1km spatial resolution 
   climate surfaces for global land areas. 
