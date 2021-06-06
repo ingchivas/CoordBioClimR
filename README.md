@@ -32,7 +32,7 @@ Roger S. Bivand, Edzer Pebesma, Virgilio Gomez-Rubio, 2013. Applied
 Robert J. Hijmans (2021). raster: Geographic Data Analysis and
   Modeling. R package version 3.4-10.
   https://CRAN.R-project.org/package=raster
- 
+
 Jeroen Ooms (2021). writexl: Export Data Frames to Excel 'xlsx'
   Format. R package version 1.4.0.
   https://CRAN.R-project.org/package=writexl
