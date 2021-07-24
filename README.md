@@ -1,11 +1,5 @@
 # CoordBioC
 
-> Desarrollado por Carlos Alberto L. Figueroa
-> 
-> Universidad Panamericana CDMX
-
-![IUP](https://i.imgur.com/1ZrTdQ3.png)
-
 Relaciona 1 dataset de latitudes y longitudes  con sus respectivos valores dentro del WorldClim BioClim v.2.1
 
 Los datasets de latitudes y longitudes deben estar separados en ```lat.csv``` y ```lon.csv``` y estos deberán ser colocados en la carpeta de datasets para que el script funcione.
